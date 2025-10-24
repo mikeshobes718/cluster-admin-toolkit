@@ -1,5 +1,7 @@
 # Cluster Admin Toolkit
 
+[![CI](https://github.com/mikeshobes718/cluster-admin-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/mikeshobes718/cluster-admin-toolkit/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 SRE toolkit for Kubernetes day-2 operations: node/deployment views, rollout status, logs/events, health snapshots, and cordon/drain + restart workflows.
 
 ## Features
